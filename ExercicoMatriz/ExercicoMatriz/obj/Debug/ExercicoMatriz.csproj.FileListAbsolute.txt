@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\bin\Debug\ExercicoMatriz.exe.config
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\bin\Debug\ExercicoMatriz.exe
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\bin\Debug\ExercicoMatriz.pdb
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\obj\Debug\ExercicoMatriz.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\obj\Debug\ExercicoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\obj\Debug\ExercicoMatriz.exe
+C:\Users\andre\Documents\ws-vs2019\ExercicoMatriz\ExercicoMatriz\obj\Debug\ExercicoMatriz.pdb
