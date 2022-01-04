@@ -5,3 +5,10 @@ C:\Users\andre\Documents\ws-vs2019\ExercicioFixacao\ExercicioFixacao\obj\Debug\E
 C:\Users\andre\Documents\ws-vs2019\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.csproj.CoreCompileInputs.cache
 C:\Users\andre\Documents\ws-vs2019\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.exe
 C:\Users\andre\Documents\ws-vs2019\ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\bin\Debug\ExercicioFixacao.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\bin\Debug\ExercicioFixacao.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\bin\Debug\ExercicioFixacao.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioFixacao\obj\Debug\ExercicioFixacao.pdb
