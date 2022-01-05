@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\bin\Debug\BoaPraticaDateISO.exe.config
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\bin\Debug\BoaPraticaDateISO.exe
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\bin\Debug\BoaPraticaDateISO.pdb
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\obj\Debug\BoaPraticaDateISO.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\obj\Debug\BoaPraticaDateISO.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\obj\Debug\BoaPraticaDateISO.exe
+C:\Users\andre\Documents\ws-vs2019\BoaPraticaDateISO\BoaPraticaDateISO\obj\Debug\BoaPraticaDateISO.pdb
