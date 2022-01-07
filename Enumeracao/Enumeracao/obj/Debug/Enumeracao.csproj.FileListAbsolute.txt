@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\bin\Debug\Enumeracao.exe.config
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\bin\Debug\Enumeracao.exe
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\bin\Debug\Enumeracao.pdb
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\obj\Debug\Enumeracao.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\obj\Debug\Enumeracao.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\obj\Debug\Enumeracao.exe
+C:\Users\andre\Documents\ws-vs2019\Enumeracao\Enumeracao\obj\Debug\Enumeracao.pdb
