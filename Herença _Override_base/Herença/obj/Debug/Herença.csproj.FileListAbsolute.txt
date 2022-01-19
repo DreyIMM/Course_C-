@@ -1,0 +1,14 @@
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\bin\Debug\Herença.exe.config
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\bin\Debug\Herença.exe
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\bin\Debug\Herença.pdb
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\obj\Debug\Herença.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\obj\Debug\Herença.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\obj\Debug\Herença.exe
+C:\Users\andre\Documents\ws-vs2019\Herença\Herença\obj\Debug\Herença.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\bin\Debug\Herença.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\bin\Debug\Herença.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\bin\Debug\Herença.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\obj\Debug\Herença.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\obj\Debug\Herença.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\obj\Debug\Herença.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Herença _Override_base\Herença\obj\Debug\Herença.pdb
