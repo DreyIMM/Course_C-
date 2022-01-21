@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\bin\Debug\EmployeeForHours.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\bin\Debug\EmployeeForHours.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\bin\Debug\EmployeeForHours.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\obj\Debug\EmployeeForHours.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\obj\Debug\EmployeeForHours.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\obj\Debug\EmployeeForHours.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\EmployeeForHours\EmployeeForHours\obj\Debug\EmployeeForHours.pdb
