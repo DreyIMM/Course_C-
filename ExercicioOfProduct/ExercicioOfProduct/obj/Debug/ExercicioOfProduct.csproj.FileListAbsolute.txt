@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\bin\Debug\ExercicioOfProduct.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\bin\Debug\ExercicioOfProduct.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\bin\Debug\ExercicioOfProduct.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\obj\Debug\ExercicioOfProduct.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\obj\Debug\ExercicioOfProduct.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\obj\Debug\ExercicioOfProduct.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioOfProduct\ExercicioOfProduct\obj\Debug\ExercicioOfProduct.pdb
