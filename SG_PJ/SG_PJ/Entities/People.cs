@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SG_PJ.Entities
 {
-    class People
+    abstract class People
     {
         public string Name { get; set; }
         public double  AnnualIncome { get; set; }
@@ -19,10 +19,8 @@ namespace SG_PJ.Entities
             AnnualIncome = annualIncome;
         }
 
-        public double CalcTax()
-        {
-            return 0;
-        }
+        public abstract double CalcTax();
+       
 
 
     }
