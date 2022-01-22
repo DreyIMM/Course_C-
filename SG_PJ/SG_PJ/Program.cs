@@ -12,13 +12,53 @@ namespace SG_PJ
         {
             List<People> list = new List<People>();
 
-            list.Add(new Individual("Andrey",50000,2000));
+            Console.Write("Numeros de empresas ");
+            int qtd = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Valores");
-            foreach(People l in list)
+            for(int i = 1; i <= qtd; i++)
             {
-                Console.WriteLine("Andrey " +l.CalcTax());
+                Console.Write("Individual ou Companhia ");
+                char ch = char.Parse(Console.ReadLine());
+
+                Console.Write("Nome ");
+                string name = Console.ReadLine();
+
+                Console.Write("Renda anual ");
+                double incomeAnual = double.Parse(Console.ReadLine());
+
+                if(ch == 'i')
+                {
+                    Console.Write("Gasto com saúde ");
+                    double healthExpen = double.Parse(Console.ReadLine());
+
+                    list.Add(new Individual(name, incomeAnual, healthExpen));
+                }
+                else
+                {
+                    Console.Write("Total de funcionarios ");
+                    int qtdFunc = int.Parse(Console.ReadLine());
+
+                    list.Add(new Company(name, incomeAnual, qtdFunc));
+;
+                }
+
             }
+
+            Console.WriteLine("Imposto Individual ");
+            foreach(People p in list)
+            {
+                Console.Write(p.Name + " $");
+                Console.WriteLine(p.CalcTax());
+            }
+
+
+            
+            double sum=0;
+            foreach (People p in list)
+            {
+                sum =sum + p.CalcTax(); 
+            }
+            Console.Write("Total de imposto arrecado pelo governo: " +sum);
 
         }
     }

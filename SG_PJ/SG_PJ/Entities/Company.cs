@@ -12,10 +12,29 @@ namespace SG_PJ.Entities
 
         public Company() { }
 
+        public Company(string name, double annualIncome,int vEmployee) : base(name, annualIncome)
+        {
+            ValueEmployee = vEmployee;
+        }
+
 
         public override double CalcTax()
         {
-            throw new NotImplementedException();
+           double valueTax=0;
+           if(ValueEmployee > 10)
+            {
+
+                 valueTax = AnnualIncome * 0.14;
+
+            }
+            else
+            {
+                valueTax = AnnualIncome * 0.16;
+            }
+
+            return valueTax;
+           
+
         }
 
     }
