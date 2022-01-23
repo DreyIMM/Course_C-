@@ -25,14 +25,22 @@ namespace Reservation.Entities
             return (int)duration.TotalDays;
         }
 
+        public void UpdateDates(DateTime checkIn, DateTime checkOut)
+        {
+            CheckIn = checkIn;
+            CheckOut = checkOut;
+        }
+
+
+
         public override string ToString()
         {
             return "Quarto "
                 + RoomNumber
                 + ", chek-in: "
-                + CheckIn.ToString("dd/MM/yyyy")
+                + CheckIn.ToString("dd/MM/yyyy    ")
                 + ", check-out"
-                + CheckOut.ToString("dd/MM/yyyy")
+                + CheckOut.ToString("dd/MM/yyyy   ")
                 + Duration()
                 + " noites";
         }
