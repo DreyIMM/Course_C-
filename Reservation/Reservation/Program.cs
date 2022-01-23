@@ -4,26 +4,24 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Reservation.Entities;
+using Reservation.Entities.Exceptions;
+
 namespace Reservation
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-            Console.Write("Numero do quarto ");
-            int number = int.Parse(Console.ReadLine());
-
-            Console.Write("Check-in data: (dd/MM/yyyy) ");
-            DateTime checkIn = DateTime.Parse(Console.ReadLine());
-            Console.Write("Check-out data: (dd/MM/yyyy) ");
-            DateTime checkOut = DateTime.Parse(Console.ReadLine());
-
-
-
-
-            if (checkOut >= checkIn)
+            try
             {
+                Console.Write("Numero do quarto ");
+                int number = int.Parse(Console.ReadLine());
+
+                Console.Write("Check-in data: (dd/MM/yyyy) ");
+                DateTime checkIn = DateTime.Parse(Console.ReadLine());
+                Console.Write("Check-out data: (dd/MM/yyyy) ");
+                DateTime checkOut = DateTime.Parse(Console.ReadLine());
+
                 Reservetion reservertion = new Reservetion(number, checkIn, checkOut);
                 Console.WriteLine(reservertion);
 
@@ -35,28 +33,20 @@ namespace Reservation
                 Console.Write("Check-out data: (dd/MM/yyyy) ");
                 checkOut = DateTime.Parse(Console.ReadLine());
 
-                string error = reservertion.UpdateDates(checkIn, checkOut);
+                reservertion.UpdateDates(checkIn, checkOut);
 
-                if (error != null)
-                {
-
-                    Console.WriteLine("Error in reservartion " +error);
-                }
-                else
-                {
-                    Console.Write("Reservation: " +reservertion);
-
-                }
-
-
-
+                Console.Write("Reservation: " + reservertion);
             }
-            else
+            catch (DomainException e)
             {
-                Console.WriteLine("Erro, data de entrada deve ser maior que saída");
+                Console.WriteLine("Error na reservação: " +e.Message);
+            }
+            
+            
             }
 
 
-        }
+
     }
 }
+

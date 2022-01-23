@@ -1,5 +1,5 @@
 ﻿using System;
-
+using Reservation.Entities.Exceptions;
 
 namespace Reservation.Entities
 {
@@ -13,6 +13,11 @@ namespace Reservation.Entities
 
         public Reservetion(int roomNumber, DateTime checkIn, DateTime checkOut)
         {
+
+            if (checkOut <= checkIn)
+            {
+                throw new DomainException("Constructo -  data de entrada deve ser maior que saída");
+            }
             RoomNumber = roomNumber;
             CheckIn = checkIn;
             CheckOut = checkOut;
@@ -25,21 +30,21 @@ namespace Reservation.Entities
             return (int)duration.TotalDays;
         }
 
-        public string UpdateDates(DateTime checkIn, DateTime checkOut)
+        public void UpdateDates(DateTime checkIn, DateTime checkOut)
         {
             DateTime now = DateTime.Now;
             if (checkIn < now || checkOut < now)
             {
-                return "   Erro, data de entrada deve ser maior que saída  - Dada futura  " ;
+                throw new DomainException("   Erro, data de entrada deve ser maior que saída  - Dada futura ") ;
             }
             if (checkOut <= checkIn)
             {
-                 return "Erro, data de entrada deve ser maior que saída" ;
+                throw new DomainException("Erro, data de entrada deve ser maior que saída") ;
             }
-
+            //O throw corta tudo, ou seja, não executa mais nada, igual o return
             CheckIn = checkIn;
             CheckOut = checkOut;
-            return null;
+            
         }
 
 
