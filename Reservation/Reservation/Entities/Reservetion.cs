@@ -41,7 +41,7 @@ namespace Reservation.Entities
             {
                 throw new DomainException("Erro, data de entrada deve ser maior que saída") ;
             }
-            //O throw corta tudo, ou seja, não executa mais nada, igual o return
+            //O throw corta o método, ou seja, não executa mais nada, igual o return
             CheckIn = checkIn;
             CheckOut = checkOut;
             

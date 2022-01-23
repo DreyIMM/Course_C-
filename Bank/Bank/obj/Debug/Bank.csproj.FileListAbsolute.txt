@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Bank\Bank\obj\Debug\Bank.pdb
