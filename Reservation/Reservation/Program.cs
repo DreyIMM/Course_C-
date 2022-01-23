@@ -39,11 +39,19 @@ namespace Reservation
             }
             catch (DomainException e)
             {
-                Console.WriteLine("Error na reservação: " +e.Message);
+                Console.WriteLine("Error na reservação: " + e.Message);
             }
-            
-            
+            catch(FormatException e)
+            {
+                Console.WriteLine("Erro de formatação: " +e.Message);
             }
+            catch(Exception e)
+            {
+                Console.WriteLine("Erro inesperado louco: " +e.Message);
+            }
+
+
+        }
 
 
 
