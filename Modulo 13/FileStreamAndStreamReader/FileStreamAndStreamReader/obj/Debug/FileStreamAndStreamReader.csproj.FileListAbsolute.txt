@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\FileStreamAndStreamReader.exe.config
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\FileStreamAndStreamReader.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\FileStreamAndStreamReader.pdb
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\FileStreamAndStreamReader.pdb

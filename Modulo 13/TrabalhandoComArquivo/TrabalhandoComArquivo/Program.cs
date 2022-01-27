@@ -19,6 +19,9 @@ namespace TrabalhandoComArquivo
             try
             {
                 FileInfo f1 = new FileInfo(sourchPath);
+               
+
+
                 f1.CopyTo(targetPath);
 
                 string[] lines = File.ReadAllLines(sourchPath);
