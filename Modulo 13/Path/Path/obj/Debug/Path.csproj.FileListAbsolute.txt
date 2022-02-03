@@ -1,0 +1,2 @@
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\Path\Path\obj\Debug\Path.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\Path\Path\obj\Debug\Path.csproj.CoreCompileInputs.cache
