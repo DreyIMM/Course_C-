@@ -19,8 +19,16 @@ namespace FileStreamAndStreamReader
                 fs = new FileStream(path, FileMode.Open);
                 sr = new StreamReader(fs);
 
-                string line = sr.ReadLine();
-                Console.WriteLine(line);
+               
+               
+
+                while (!sr.EndOfStream)
+                {
+                    string line = sr.ReadLine();
+                    Console.WriteLine(line);
+                }
+
+
 
             }catch(IOException e)
             {

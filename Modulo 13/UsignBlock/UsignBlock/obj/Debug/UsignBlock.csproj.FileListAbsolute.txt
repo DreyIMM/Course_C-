@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\bin\Debug\UsignBlock.exe.config
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\bin\Debug\UsignBlock.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\bin\Debug\UsignBlock.pdb
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\obj\Debug\UsignBlock.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\obj\Debug\UsignBlock.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\obj\Debug\UsignBlock.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\obj\Debug\UsignBlock.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\UsignBlock\UsignBlock\obj\Debug\UsignBlock.pdb
