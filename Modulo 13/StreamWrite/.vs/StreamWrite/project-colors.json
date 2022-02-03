@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eeb0e951-5fcb-4200-8bcc-2228764b95c5": {
+      "ProjectGuid": "eeb0e951-5fcb-4200-8bcc-2228764b95c5",
+      "DisplayName": "StreamWrite",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -12,7 +12,7 @@ namespace StreamWrite
         static void Main(string[] args)
         {
             string sourcePath = @"d:\File.txt";
-            string tagetPath = @"d:\File1.txt";
+            
 
             try
             {
