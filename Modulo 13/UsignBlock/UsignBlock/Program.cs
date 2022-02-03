@@ -7,7 +7,7 @@ namespace UsignBlock
     {
         static void Main(string[] args)
         {
-            string path = @"d:\Fie.txt";
+            string path = @"d:\File.txt";
 
 
             try {

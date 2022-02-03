@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe.config
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\bin\Debug\StreamWrite.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\bin\Debug\StreamWrite.pdb
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\obj\Debug\StreamWrite.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\obj\Debug\StreamWrite.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\StreamWrite\StreamWrite\obj\Debug\StreamWrite.pdb
