@@ -1,5 +1,9 @@
 ﻿
+<<<<<<< HEAD
 Microsoft Visual Studio Solution File, Format Version 12.00
+=======
+Microsoft Visual Studio Solution File, 12.00
+>>>>>>> 44e23e97fed8b0ca4e904c7f82f1e4ca66b27608
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1

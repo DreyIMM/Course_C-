@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe.config
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\DirectoryAndDirectoryInfo.pdb
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\DirectoryAndDirectoryInfo.pdb

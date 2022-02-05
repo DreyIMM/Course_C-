@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\TrabalhandoComArquivo.exe.config
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\TrabalhandoComArquivo.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\bin\Debug\TrabalhandoComArquivo.pdb
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\TrabalhandoComArquivo.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\TrabalhandoComArquivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\TrabalhandoComArquivo.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\TrabalhandoComArquivo.exe
+C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\TrabalhandoComArquivo\TrabalhandoComArquivo\obj\Debug\TrabalhandoComArquivo.pdb
