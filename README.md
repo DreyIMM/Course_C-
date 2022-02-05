@@ -7,6 +7,7 @@ Conceitos sobre orientação a objetos
 *Herança 
 *Polimorfismo 
 *Encapsulamento 
+*Enums
 <<<<<<< HEAD
 =======
 
