@@ -10,8 +10,9 @@ namespace SG_PJ
     {
         static void Main(string[] args)
         {
+            //Lista do tipo pessoa
             List<People> list = new List<People>();
-
+            
             Console.Write("Numeros de empresas ");
             int qtd = int.Parse(Console.ReadLine());
 
