@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\obj\Debug\Reservation.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\obj\Debug\Reservation.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\bin\Debug\Reservation.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\bin\Debug\Reservation.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\bin\Debug\Reservation.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\obj\Debug\Reservation.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\Reservation\Reservation\obj\Debug\Reservation.pdb

@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\ExercicioMetodoAbstrato.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\ExercicioMetodoAbstrato.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\bin\Debug\ExercicioMetodoAbstrato.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\ExercicioMetodoAbstrato\ExercicioMetodoAbstrato\obj\Debug\ExercicioMetodoAbstrato.pdb

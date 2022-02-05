@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\bin\Debug\SG_PJ.exe.config
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\bin\Debug\SG_PJ.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\bin\Debug\SG_PJ.pdb
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\obj\Debug\SG_PJ.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\obj\Debug\SG_PJ.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\obj\Debug\SG_PJ.exe
+C:\Users\andre\Documents\ws-vs2019\_ExercicioFixacao\SG_PJ\SG_PJ\obj\Debug\SG_PJ.pdb

@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\bin\Debug\SwithCase.exe.config
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\bin\Debug\SwithCase.exe
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\bin\Debug\SwithCase.pdb
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\obj\Debug\SwithCase.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\obj\Debug\SwithCase.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\obj\Debug\SwithCase.exe
+C:\Users\andre\Documents\ws-vs2019\SwithCase\SwithCase\obj\Debug\SwithCase.pdb

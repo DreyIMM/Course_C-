@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\PropriedadeDateTime.exe.config
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\PropriedadeDateTime.exe
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\bin\Debug\PropriedadeDateTime.pdb
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\PropriedadeDateTime.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\PropriedadeDateTime.exe
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\PropriedadeDateTime.pdb
+C:\Users\andre\Documents\ws-vs2019\PropriedadeDateTime\PropriedadeDateTime\obj\Debug\PropriedadeDateTime.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwithCase", "SwithCase\SwithCase.csproj", "{965394C0-B187-4ADD-A7D5-10872374B15A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965394C0-B187-4ADD-A7D5-10872374B15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965394C0-B187-4ADD-A7D5-10872374B15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965394C0-B187-4ADD-A7D5-10872374B15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965394C0-B187-4ADD-A7D5-10872374B15A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143CF102-0CC5-44E7-B391-0A39A9E35786}
+	EndGlobalSection
+EndGlobal

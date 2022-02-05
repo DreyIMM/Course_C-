@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\PostAndComment.exe.config
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\PostAndComment.exe
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\bin\Debug\PostAndComment.pdb
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\PostAndComment.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\PostAndComment.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\PostAndComment.exe
+C:\Users\andre\Documents\ws-vs2019\PostAndComment\PostAndComment\obj\Debug\PostAndComment.pdb

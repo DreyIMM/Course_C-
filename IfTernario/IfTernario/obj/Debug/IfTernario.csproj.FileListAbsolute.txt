@@ -1,0 +1,7 @@
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\bin\Debug\IfTernario.exe.config
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\bin\Debug\IfTernario.exe
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\bin\Debug\IfTernario.pdb
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\obj\Debug\IfTernario.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\obj\Debug\IfTernario.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\obj\Debug\IfTernario.exe
+C:\Users\andre\Documents\ws-vs2019\IfTernario\IfTernario\obj\Debug\IfTernario.pdb
