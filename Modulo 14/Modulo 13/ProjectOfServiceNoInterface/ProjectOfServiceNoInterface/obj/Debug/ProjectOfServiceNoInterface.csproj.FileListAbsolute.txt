@@ -1,8 +1,0 @@
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\bin\Debug\ProjectOfServiceNoInterface.exe.config
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\bin\Debug\ProjectOfServiceNoInterface.exe
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\bin\Debug\ProjectOfServiceNoInterface.pdb
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\obj\Debug\ProjectOfServiceNoInterface.csproj.AssemblyReference.cache
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\obj\Debug\ProjectOfServiceNoInterface.csproj.SuggestedBindingRedirects.cache
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\obj\Debug\ProjectOfServiceNoInterface.csproj.CoreCompileInputs.cache
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\obj\Debug\ProjectOfServiceNoInterface.exe
-C:\Users\andrey.barbosa\OneDrive - Operador Nacional do Sistema Eletrico\Curso - C#\Modulo 13\ProjectOfServiceNoInterface\ProjectOfServiceNoInterface\obj\Debug\ProjectOfServiceNoInterface.pdb
