@@ -8,13 +8,18 @@ namespace ProjectOfServiceNoInterface.Services
         public double PricePerHour { get; set; }
         public double PricePerDay { get; set; }
 
-        // não é a melhor opção
-        private BrazilTaxServices _brazilTaxServices = new BrazilTaxServices();
-               
-        public RentalService(double pricePerHour, double pricePerday)
+        // não é (ERA) a melhor opção
+        //private BrazilTaxServices _brazilTaxServices = new BrazilTaxServices();
+       
+        // Solução ideal:
+        private ITaxService _taxService;
+        
+
+        public RentalService(double pricePerHour, double pricePerday, ITaxService taxService)
         {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerday;
+            _taxService = taxService;
         }
 
         public void ProcessInvoice(CarRental carRental)
@@ -32,7 +37,7 @@ namespace ProjectOfServiceNoInterface.Services
                 basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
-            double tax = _brazilTaxServices.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }
