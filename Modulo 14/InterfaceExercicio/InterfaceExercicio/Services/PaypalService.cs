@@ -10,13 +10,17 @@ namespace InterfaceExercicio.Services
     {
         public double PaymentFree(double amount)
         {
-            
-            return amount;
+            return amount;  
+          
         }
 
-        public double interest(double amount, int months)
+        public double Interest(double amount, int months)
         {
-            return amount;
+            double total;
+            total = amount + (0.1 * months);
+            total = total + 0.02;
+
+            return total;
         }
 
     }

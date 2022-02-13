@@ -13,13 +13,15 @@ namespace InterfaceExercicio.Entities
         public double TotalValue { get; set;}
         public Installment Installment { get; set; }
 
-        public Contracts(int number, DateTime date, double totalValue, Installment installment)
+        public Contracts(int number, DateTime date, double totalValue)
         {
             Number = number;
             Date = date;
             TotalValue = totalValue;
-            Installment = installment;
+           
         }
+             
+
     }
 }
     
