@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\bin\Debug\InterfaceComClasseAbstract.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\bin\Debug\InterfaceComClasseAbstract.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\bin\Debug\InterfaceComClasseAbstract.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\obj\Debug\InterfaceComClasseAbstract.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\obj\Debug\InterfaceComClasseAbstract.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\obj\Debug\InterfaceComClasseAbstract.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\obj\Debug\InterfaceComClasseAbstract.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\InterfaceComClasseAbstract\InterfaceComClasseAbstract\obj\Debug\InterfaceComClasseAbstract.pdb
