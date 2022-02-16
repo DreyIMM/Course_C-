@@ -18,7 +18,7 @@ namespace InterfaceExercicio.Services
         }
 
         public double PaymentFree(double amount)
-        {
+        {   
             return amount * FeePercentage ; 
           
         }

@@ -37,7 +37,7 @@ namespace InterfaceExercicio
             foreach (Installment installment in myContract.Installments) {
                 Console.WriteLine(installment);
             }         
-            qtdInments = int.Parse(Console.ReadLine());
+           
         }
     }
 }
