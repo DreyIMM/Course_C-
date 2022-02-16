@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Utilizando_Interface_IComparable.Entities
 {
-    internal class Employees
+    internal class Employees : IComparable
     {
         public string Name { get; set; }
         public double Salary { get; set; }
@@ -18,6 +18,16 @@ namespace Utilizando_Interface_IComparable.Entities
         public override string ToString()
         {
             return Name + ",  " + Salary.ToString("F2", CultureInfo.InvariantCulture);
+        }
+
+        public int CompareTo(object obj)
+        {
+            if(!(obj is Employees))
+            {
+                throw new ArguemtnException("Compartion error: argument is not Employee");
+            }
+            Employees other = (Employees)obj;
+            return Salary.CompareTo(other.Salary);
         }
     }
 }
