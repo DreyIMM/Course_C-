@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\bin\Debug\Utilizando_Interface_IComparable.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\bin\Debug\Utilizando_Interface_IComparable.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\bin\Debug\Utilizando_Interface_IComparable.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\obj\Debug\Utilizando_Interface_IComparable.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\obj\Debug\Utilizando_Interface_IComparable.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\obj\Debug\Utilizando_Interface_IComparable.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\obj\Debug\Utilizando_Interface_IComparable.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 14\Utilizando_Interface_IComparable\Utilizando_Interface_IComparable\obj\Debug\Utilizando_Interface_IComparable.pdb
