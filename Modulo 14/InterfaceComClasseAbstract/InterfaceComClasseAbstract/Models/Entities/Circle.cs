@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Globalization;
 namespace InterfaceComClasseAbstract.Models.Entities
 {
-    class Circle : Shape
+    class Circle : AbstractShape
     {
         public double Radius { get; set; }
 

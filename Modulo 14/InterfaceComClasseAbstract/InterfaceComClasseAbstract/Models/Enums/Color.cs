@@ -8,6 +8,7 @@ namespace InterfaceComClasseAbstract.Models.Enums
 {
     enum  Color
     {
+        Green,
         Black,
         White
     }
