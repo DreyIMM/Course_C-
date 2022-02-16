@@ -8,19 +8,19 @@ namespace InterfaceExercicio.Services
 {
     internal class PaypalService: IOnlinePaymentService
     {
-        public double PaymentFree(double amount)
-        {
-            return amount;  
-          
-        }
+        private const double FeePercentage = 0.02;
+        private const double MonthlyInterest = 0.01; 
 
+        
         public double Interest(double amount, int months)
         {
-            double total;
-            total = amount + (0.1 * months);
-            total = total + 0.02;
+            return amount * months * MonthlyInterest;
+        }
 
-            return total;
+        public double PaymentFree(double amount)
+        {
+            return amount * FeePercentage ; 
+          
         }
 
     }

@@ -18,11 +18,10 @@ namespace InterfaceExercicio.Entities
             Amount = amount;
         }
                
-        public override string ToString()
-        {
-            return  DueDate.ToString("dd/MM/yyyy")
-            + " - "
-            + Amount.ToString("F2" , CultureInfo.InvariantCulture);
+        public override string ToString() {
+            return DueDate.ToString("dd/MM/yyyy")
+                + " - "
+                + Amount.ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

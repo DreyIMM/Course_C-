@@ -18,17 +18,26 @@ namespace InterfaceExercicio
             Console.Write("Data (dd/mm/YYYY) ");
             DateTime datContract = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
             Console.Write("Valor do contrato ");
-            double valueContract = double.Parse(Console.ReadLine());
+            double valueContract = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Quantidade de parcelas ");
             int qtdInments = int.Parse(Console.ReadLine());
 
-            Contracts contract = new Contracts(num, datContract, valueContract);
-            ContractService contractService = new ContractService(new PaypalService(), qtdInments);
-          
+             
+            Contracts myContract = new Contracts(num, datContract, valueContract);
+            ContractService contractService = new ContractService(new PaypalService());
 
-            contractService.ProcessContract(contract, datContract.Month);
+            contractService.ProcessContract(myContract,qtdInments);
+
             
-
+          
+            
+        
+            
+            Console.WriteLine("Installments:");
+            foreach (Installment installment in myContract.Installments) {
+                Console.WriteLine(installment);
+            }         
+            qtdInments = int.Parse(Console.ReadLine());
         }
     }
 }
