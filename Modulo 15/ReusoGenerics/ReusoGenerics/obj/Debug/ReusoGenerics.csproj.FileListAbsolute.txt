@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\obj\Debug\ReusoGenerics.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\obj\Debug\ReusoGenerics.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\obj\Debug\ReusoGenerics.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\bin\Debug\ReusoGenerics.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\bin\Debug\ReusoGenerics.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\bin\Debug\ReusoGenerics.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\obj\Debug\ReusoGenerics.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ReusoGenerics\ReusoGenerics\obj\Debug\ReusoGenerics.pdb

@@ -10,10 +10,7 @@ Conceitos sobre orientação a objetos
 <<<<<<< HEAD
 *Enums
 <<<<<<< HEAD
-=======
 
->>>>>>> ea6208bfc8f84c76f32c93c4ca9e5c9e93eef4f1
-=======
 
 Novos conceitos
 
