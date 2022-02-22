@@ -2,21 +2,23 @@
 
 
 namespace ReusoGenerics
-{
-    internal class PrintService
+{   
+
+    //toda minha classe está associada ao tipo (T) Generics
+    internal class PrintService<T>
     {
         //criado uma variavel interna que armazena até 10 valores
-        private object[] _values = new object[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void addValue(object value)
+        public void addValue(T value)
         {
             if (_count == 10) throw new InvalidOperationException("PrintService is full");
             _values[_count] = value;
             _count++;
         }
 
-        public object Frist()
+        public T Frist()
         {
             if (_count == 0) throw new InvalidOperationException("PrintService is empty");
             return _values[0];

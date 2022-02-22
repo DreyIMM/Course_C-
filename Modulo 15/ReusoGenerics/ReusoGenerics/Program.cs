@@ -10,9 +10,9 @@ namespace ReusoGenerics
     {
         static void Main(string[] args)
         {
-            PrintService printService = new PrintService();
+            PrintService<string> printService = new PrintService<string>();
 
-            Console.WriteLine("Digite a quantidade de numeros");
+            Console.WriteLine("Digite a quantidade de nomes(String) ");
             int qtd = int.Parse(Console.ReadLine());
 
             for(int i = 0; i < qtd; i++)
@@ -21,17 +21,25 @@ namespace ReusoGenerics
 
                 printService.addValue(x);
             }
-
-            // Problema ao utilizar o Objetc (Infere ao Type Safety
-            int a = (int)printService.Frist();
-            int b = a + 2;
-            Console.WriteLine(b);
-
-
             printService.Print();
-            Console.WriteLine("Frist :" + printService.Frist());
 
-            qtd = int.Parse(Console.ReadLine());
+            //Iniciando com outro type
+
+
+            PrintService<int> printServiceInt = new PrintService<int>();
+            Console.WriteLine("Digite a quantidade de numeros");
+             int qtdN = int.Parse(Console.ReadLine());
+            
+            for(int i = 0; i < qtdN; i++)
+            {
+                int x = int.Parse(Console.ReadLine());
+
+                printServiceInt.addValue(x);
+            }
+                        
+
+            printServiceInt.Print();
+            Console.WriteLine("Frist :" + printServiceInt.Frist());
         }
     }
 }
