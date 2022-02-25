@@ -8,17 +8,21 @@ namespace GenerecisRestrision.Service
 {
     class CalculationService
     {
-
-        public int Max(List<int> list)
+        //T para indicar que é Generic (ou seja, aceita qualquer tipo)
+        // where T : IComparable -> Indica que minha lista pode ser comparada, que tem o (CompareTo
+        public T Max<T>(List<T> list)
+            where T : IComparable
         {
             if(list.Count == 0)
             {
                 throw new ArgumentException("This list can not be empty");
             }
-            int max = list[0];
+            
+
+            T max = list[0];
 
             for(int i = 1;  i < list.Count; i++)
-                if(list[i] > max)
+                if(list[i].CompareTo(max) > 0)
                 {
                     max = list[i];
                 }

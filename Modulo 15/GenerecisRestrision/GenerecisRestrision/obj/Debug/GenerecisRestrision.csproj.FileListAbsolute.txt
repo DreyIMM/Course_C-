@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\bin\Debug\GenerecisRestrision.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\bin\Debug\GenerecisRestrision.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\bin\Debug\GenerecisRestrision.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\obj\Debug\GenerecisRestrision.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\obj\Debug\GenerecisRestrision.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\obj\Debug\GenerecisRestrision.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\obj\Debug\GenerecisRestrision.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\GenerecisRestrision\GenerecisRestrision\obj\Debug\GenerecisRestrision.pdb
