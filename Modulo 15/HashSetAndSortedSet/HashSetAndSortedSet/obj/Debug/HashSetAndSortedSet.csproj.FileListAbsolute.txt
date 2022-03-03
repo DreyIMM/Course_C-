@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\HashSetAndSortedSet.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\HashSetAndSortedSet.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\HashSetAndSortedSet.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\HashSetAndSortedSet.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\HashSetAndSortedSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\HashSetAndSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\HashSetAndSortedSet.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\HashSetAndSortedSet.pdb
