@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\bin\Debug\EqualsAndGetHasCode.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\bin\Debug\EqualsAndGetHasCode.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\bin\Debug\EqualsAndGetHasCode.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\obj\Debug\EqualsAndGetHasCode.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\obj\Debug\EqualsAndGetHasCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\obj\Debug\EqualsAndGetHasCode.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\obj\Debug\EqualsAndGetHasCode.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\EqualsAndGetHasCode\EqualsAndGetHasCode\obj\Debug\EqualsAndGetHasCode.pdb
