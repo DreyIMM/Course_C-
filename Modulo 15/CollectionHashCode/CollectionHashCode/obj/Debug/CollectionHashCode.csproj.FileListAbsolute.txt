@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\bin\Debug\CollectionHashCode.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\bin\Debug\CollectionHashCode.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\bin\Debug\CollectionHashCode.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\obj\Debug\CollectionHashCode.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\obj\Debug\CollectionHashCode.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\obj\Debug\CollectionHashCode.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\obj\Debug\CollectionHashCode.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\CollectionHashCode\CollectionHashCode\obj\Debug\CollectionHashCode.pdb

@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\bin\Debug\ExercicioConjunto.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\bin\Debug\ExercicioConjunto.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\bin\Debug\ExercicioConjunto.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\obj\Debug\ExercicioConjunto.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\obj\Debug\ExercicioConjunto.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\obj\Debug\ExercicioConjunto.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\obj\Debug\ExercicioConjunto.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioConjunto\ExercicioConjunto\obj\Debug\ExercicioConjunto.pdb
