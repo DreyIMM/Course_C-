@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "381f548b-fd39-408c-b2b6-9b9a08a3376c": {
+      "ProjectGuid": "381f548b-fd39-408c-b2b6-9b9a08a3376c",
+      "DisplayName": "HashSetAndSortedSet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

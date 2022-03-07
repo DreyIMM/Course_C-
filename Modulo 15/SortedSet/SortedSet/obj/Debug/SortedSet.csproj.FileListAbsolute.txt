@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\bin\Debug\SortedSet.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\bin\Debug\SortedSet.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\bin\Debug\SortedSet.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\obj\Debug\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\obj\Debug\SortedSet.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\SortedSet\SortedSet\obj\Debug\SortedSet.pdb
