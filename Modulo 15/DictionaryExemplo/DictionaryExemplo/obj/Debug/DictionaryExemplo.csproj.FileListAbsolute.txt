@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\bin\Debug\DictionaryExemplo.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\bin\Debug\DictionaryExemplo.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\bin\Debug\DictionaryExemplo.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\obj\Debug\DictionaryExemplo.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\obj\Debug\DictionaryExemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\obj\Debug\DictionaryExemplo.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\obj\Debug\DictionaryExemplo.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\DictionaryExemplo\DictionaryExemplo\obj\Debug\DictionaryExemplo.pdb
