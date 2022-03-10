@@ -12,24 +12,31 @@ namespace DictionaryExemplo
         {
             //brincadeira com o cookes web
             //Dictionary não aceita repitição, o que ocorre é uma substituição do valor.
+            Dictionary<string, int> cookies = new Dictionary<string, int>();
+
             Dictionary<string, string> cookies = new Dictionary<string, string>();
-
-            cookies["user"] = "Andrey";
-            cookies["password"] = "github";
-            cookies["Nivel"] = "Junior";
-            cookies["Locale"] = "Brazil";
-
-
-            
-            
-            Console.WriteLine("size" +cookies.Count);
-
-            Console.WriteLine("All cookies");
-
-            foreach(KeyValuePair<string,string> cookie in cookies)
+            cookies["user"] = "maria";
+            cookies["email"] = "maria@gmail.com";
+            cookies["phone"] = "99771122";
+            cookies["phone"] = "99771133";
+            Console.WriteLine(cookies["email"]);
+            cookies.Remove("email");
+            Console.WriteLine("Phone number: " + cookies["phone"]);
+            if (cookies.ContainsKey("email"))
             {
-                Console.WriteLine(cookie.Key + " : " + cookie.Value);
+                Console.WriteLine("Email: " + cookies["email"]);
             }
+            else
+            {
+                Console.WriteLine("There is not 'email' key");
+            }
+            Console.WriteLine("Size: " + cookies.Count);
+            Console.WriteLine("ALL COOKIES:");
+            foreach (KeyValuePair<string, string> item in cookies)
+            {
+                Console.WriteLine(item.Key + ": " + item.Value);
+            }
+
 
         }
     }
