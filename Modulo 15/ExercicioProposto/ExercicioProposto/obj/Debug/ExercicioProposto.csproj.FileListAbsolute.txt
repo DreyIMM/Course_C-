@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\bin\Debug\ExercicioProposto.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\bin\Debug\ExercicioProposto.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\bin\Debug\ExercicioProposto.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 15\ExercicioProposto\ExercicioProposto\obj\Debug\ExercicioProposto.pdb
