@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\bin\Debug\ExtensionMethodDemo2.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\bin\Debug\ExtensionMethodDemo2.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\bin\Debug\ExtensionMethodDemo2.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\obj\Debug\ExtensionMethodDemo2.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\obj\Debug\ExtensionMethodDemo2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\obj\Debug\ExtensionMethodDemo2.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\obj\Debug\ExtensionMethodDemo2.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 16\ExtensionMethodDemo2\ExtensionMethodDemo2\obj\Debug\ExtensionMethodDemo2.pdb

@@ -3,18 +3,17 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ExtensionMethodWDateTime.Extensions;
 
-namespace ExtensionMethodWDateTime
+namespace ExtensionMethodDemo2
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            // 8:30 da manhã
-            DateTime dt = new DateTime(2022, 3, 10 , 8, 30, 45);
- 
-            Console.WriteLine(dt.ElapsedTime());
+
+            string s1 = "Good morning dear students";
+            Console.WriteLine(s1.Cut(10));
+
 
 
         }
