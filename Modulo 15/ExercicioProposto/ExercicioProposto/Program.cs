@@ -28,10 +28,12 @@ namespace ExercicioProposto
                         int value = int.Parse(line[1]);
                         string key = line[0];
 
-
+                        Console.WriteLine(value);
                         if (CandidatoVoto.ContainsKey(key))
                         {
-                            CandidatoVoto[key] += value;
+                            // faz sentido mais ainda está confuso
+                             CandidatoVoto[key] = CandidatoVoto[key] + value;
+                             Console.WriteLine(CandidatoVoto[key]);
                         }
                         else
                         {
@@ -59,7 +61,7 @@ namespace ExercicioProposto
                 Console.WriteLine(ex.Message);
             }
 
-
+            string a = Console.ReadLine();
         }
     }
 }
