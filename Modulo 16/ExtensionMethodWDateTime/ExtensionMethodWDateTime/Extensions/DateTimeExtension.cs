@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 namespace ExtensionMethodWDateTime.Extensions
 {
@@ -12,12 +8,12 @@ namespace ExtensionMethodWDateTime.Extensions
 
         //colocando meus extension methdos
 
-        //o que determina que esse metodo é extensão do tipo dateTime (É o primeiro parametro no metodo que precisa ter o this
+        //o que determina que esse metodo é extensão do tipo dateTime (É o primeiro parametro no metodo que precisa ter o this para referenciar o prop objet chaamado
         public static string ElapsedTime(this DateTime thisObjs)
         {
             //tempo decorrido em mil.segundos
 
-            TimeSpan duration = DateTime.Now - thisObjs.Date;
+            TimeSpan duration = DateTime.Now.Subtract(thisObjs);
 
            if(duration.TotalHours < 24.0)
             {

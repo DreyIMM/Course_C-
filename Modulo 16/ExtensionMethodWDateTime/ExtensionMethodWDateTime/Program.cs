@@ -10,9 +10,9 @@ namespace ExtensionMethodWDateTime
     {
         static void Main(string[] args)
         {
-
-            DateTime dt = new DateTime(2022, 03, 09 , 8, 10, 45);
-            
+            // 8:30 da manhã
+            DateTime dt = new DateTime(2022, 3, 10 , 8, 30, 45);
+ 
             Console.WriteLine(dt.ElapsedTime());
 
 
