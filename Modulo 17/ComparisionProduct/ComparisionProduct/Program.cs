@@ -17,18 +17,20 @@ namespace ComparisionProduct
             list.Add(new Product("Carro", 30.000));
 
             //Sort para ordenar (Só funciona se o tipo da lista implementea a interface ICompareble
-            //Dessa forma, funciona, mas viola o principio solid ocp
-            list.Sort();
+            
+            //Delegate -> Referencia para função com Type Safe
+            list.Sort(CompareProdut);
 
             foreach(Product p in list)
             {
                 Console.WriteLine(p);
             }
-
-
-
-
-
         }
+
+        static int CompareProdut(Product p1, Product p2)
+        {
+            return p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
+        }
+
     }
 }
