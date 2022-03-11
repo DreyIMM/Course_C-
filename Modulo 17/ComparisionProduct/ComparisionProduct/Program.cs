@@ -17,6 +17,7 @@ namespace ComparisionProduct
             list.Add(new Product("Carro", 30.000));
 
             //Sort para ordenar (Só funciona se o tipo da lista implementea a interface ICompareble
+            //Dessa forma, funciona, mas viola o principio solid ocp
             list.Sort();
 
             foreach(Product p in list)
