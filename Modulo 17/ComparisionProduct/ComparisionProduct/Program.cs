@@ -17,9 +17,13 @@ namespace ComparisionProduct
             list.Add(new Product("Carro", 30.000));
 
             //Sort para ordenar (Só funciona se o tipo da lista implementea a interface ICompareble
-            
+
             //Delegate -> Referencia para função com Type Safe
-            list.Sort(CompareProdut);
+            //list.Sort(CompareProdut);
+
+            //Declaração com função Lampda
+            //Função anonima
+            list.Sort((p1, p2) => p1.Price.CompareTo(p2.Price));
 
             foreach(Product p in list)
             {
@@ -27,10 +31,10 @@ namespace ComparisionProduct
             }
         }
 
-        static int CompareProdut(Product p1, Product p2)
-        {
-            return p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
-        }
+        //static int CompareProdut(Product p1, Product p2)
+        //{
+        //    return p1.Name.ToUpper().CompareTo(p2.Name.ToUpper());
+        //}
 
     }
 }
