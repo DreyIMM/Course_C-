@@ -1,0 +1,7 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\bin\Debug\Exemplo_Predicate.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\bin\Debug\Exemplo_Predicate.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\bin\Debug\Exemplo_Predicate.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\obj\Debug\Exemplo_Predicate.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\obj\Debug\Exemplo_Predicate.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\obj\Debug\Exemplo_Predicate.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Exemplo_Predicate\Exemplo_Predicate\obj\Debug\Exemplo_Predicate.pdb
