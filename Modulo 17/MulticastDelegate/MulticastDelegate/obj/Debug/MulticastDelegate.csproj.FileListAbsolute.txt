@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\bin\Debug\MulticastDelegate.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\MulticastDelegate\MulticastDelegate\obj\Debug\MulticastDelegate.pdb
