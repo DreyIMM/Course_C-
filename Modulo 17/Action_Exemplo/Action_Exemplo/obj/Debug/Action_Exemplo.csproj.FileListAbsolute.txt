@@ -1,0 +1,7 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\bin\Debug\Action_Exemplo.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\bin\Debug\Action_Exemplo.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\bin\Debug\Action_Exemplo.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\obj\Debug\Action_Exemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\obj\Debug\Action_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\obj\Debug\Action_Exemplo.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Action_Exemplo\Action_Exemplo\obj\Debug\Action_Exemplo.pdb
