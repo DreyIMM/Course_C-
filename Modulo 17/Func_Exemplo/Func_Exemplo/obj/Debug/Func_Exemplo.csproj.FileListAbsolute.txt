@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\bin\Debug\Func_Exemplo.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\bin\Debug\Func_Exemplo.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\bin\Debug\Func_Exemplo.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\obj\Debug\Func_Exemplo.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\obj\Debug\Func_Exemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\obj\Debug\Func_Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\obj\Debug\Func_Exemplo.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Func_Exemplo\Func_Exemplo\obj\Debug\Func_Exemplo.pdb
