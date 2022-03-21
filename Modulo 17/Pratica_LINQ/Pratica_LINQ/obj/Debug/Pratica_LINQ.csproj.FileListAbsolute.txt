@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\bin\Debug\Pratica_LINQ.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\bin\Debug\Pratica_LINQ.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\bin\Debug\Pratica_LINQ.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\obj\Debug\Pratica_LINQ.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\obj\Debug\Pratica_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\obj\Debug\Pratica_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\obj\Debug\Pratica_LINQ.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\Pratica_LINQ\Pratica_LINQ\obj\Debug\Pratica_LINQ.pdb
