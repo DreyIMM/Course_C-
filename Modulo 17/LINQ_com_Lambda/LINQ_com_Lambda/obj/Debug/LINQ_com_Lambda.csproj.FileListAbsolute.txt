@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\bin\Debug\LINQ_com_Lambda.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\bin\Debug\LINQ_com_Lambda.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\bin\Debug\LINQ_com_Lambda.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\obj\Debug\LINQ_com_Lambda.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\obj\Debug\LINQ_com_Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\obj\Debug\LINQ_com_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\obj\Debug\LINQ_com_Lambda.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\LINQ_com_Lambda\LINQ_com_Lambda\obj\Debug\LINQ_com_Lambda.pdb
