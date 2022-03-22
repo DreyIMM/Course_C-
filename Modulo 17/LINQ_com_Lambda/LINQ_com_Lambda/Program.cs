@@ -75,8 +75,44 @@ namespace LINQ_com_Lambda
             var r8 = products.Where(p => p.Id == 3).SingleOrDefault();
             Console.WriteLine("Single or default test1  " + r8);
 
-            
+            var r10 = products.Max(p=> p.Price);
+            Console.WriteLine("Max price " + r10);
 
+            var r11 = products.Min(p => p.Price);
+            Console.WriteLine("Min price " + r11);
+
+            //Filtrar os produtos da categoria 1 e a soma dos preços
+            var r12 = products.Where(p => p.Category.Id == 1).Sum(p => p.Price);
+            Console.WriteLine("Category 1 Sum prices: " +r12);
+
+            //Filtrar os produtos da categoria 1 e a média dos preços
+            var r13 = products.Where(p => p.Category.Id == 1).Average(p => p.Price);
+            Console.WriteLine("Category 1 média prices: " + r13);
+
+            var r14 = products.Where(p => p.Category.Id == 5).Select(p => p.Price).DefaultIfEmpty(0.0).Average();
+            Console.WriteLine("média vazia, evitando erro: Category 5 média prices: " + r14);
+
+            //Operação Agregate (Map.reduce)
+            //Monta uma operação agregada reduziada
+            //caso o id seja vazio, terá que tratar a execption, colocando depois do Aggregate o valor para substituir caso o Where seja nulo
+
+            var r15 = products.Where(p => p.Category.Id == 1).Select(p => p.Price).Aggregate(0.0 ,(x,y) => x + y);
+            Console.WriteLine("category 1 aggregate sum: " +r15);
+            Console.WriteLine();
+            
+            //operação de agrupamento
+
+            var r16 = products.GroupBy(p => p.Category);
+
+            foreach(IGrouping<Category, Product> group in r16)
+            {
+                Console.WriteLine("Category: " + group.Key.Name + ": ");
+                foreach(Product product in group)
+                {
+                    Console.WriteLine(product);
+                }
+                Console.WriteLine();
+            }
 
         }
     }
