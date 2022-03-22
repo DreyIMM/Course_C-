@@ -1,0 +1,8 @@
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\bin\Debug\ExercicioResolvido_LINQ.exe.config
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\bin\Debug\ExercicioResolvido_LINQ.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\bin\Debug\ExercicioResolvido_LINQ.pdb
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\obj\Debug\ExercicioResolvido_LINQ.csproj.AssemblyReference.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\obj\Debug\ExercicioResolvido_LINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\obj\Debug\ExercicioResolvido_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\obj\Debug\ExercicioResolvido_LINQ.exe
+C:\Users\andrey.barbosa\Desktop\Course_C-\Modulo 17\ExercicioResolvido_LINQ\ExercicioResolvido_LINQ\obj\Debug\ExercicioResolvido_LINQ.pdb
